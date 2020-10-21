@@ -62,5 +62,5 @@ else if (combien == 5 ) {
 }
 else if ( (combien >=6)||(combien<0)) {
 	console.log("entrée un nombre correcte")
-	}
+}
 }
