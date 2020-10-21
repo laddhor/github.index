@@ -60,4 +60,7 @@ else if (combien == 5 ) {
 		console.log("gagner");
 	}
 }
+else if ( (combien >=6)||(combien<0)) {
+	console.log("entrée un nombre correcte")
+	}
 }
